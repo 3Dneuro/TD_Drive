@@ -7,7 +7,7 @@ Classically, studies recording brain activity with extracellular electrodes have
 
 To make this kind of research more accessible to the scientific community, we set out to create a hyperdrive design that can be modified by individual users, all while being producible in-house. The TD Drive thus aims to overcome some of the drawbacks of existing solutions: it allows targeting of multiple brain areas, mirrored across both hemispheres, with independent wire electrodes simultaneously. Due to its simple design, it can be assembled in a few hours at a relatively low cost. We publish the TD Drive open source, in easily modifiable file formats, to allow researchers to adjust it to their specific needs. A protective cap and electrode interface board (EIB), both available in a standard and enlarged version, complete the experimental framework. The enlarged versions provide increased freedom to make parametric changes to the drive body. Incorporating a parametric 3D modeling approach from the beginning of the TD Drive’s design process allowed us to abstract the parameters necessary to be changed: to change target locations, researchers can simply edit the parameters representing their dorsoventral and anteroposterior coordinates, without the need for redesigning the drive themselves.
 
-![Parametric feature demonstration default](placeholder) ![Parametric feature demonstration alternate](placeholder)
+![Parametric feature demonstration default](Media/ParametricRender.png) ![Parametric feature demonstration alternate](Media/AlternateParametricRender.png)
 
 # Parameters
 *The parametric design was created in Autodesk Fusion 360. To edit the parameters described below, you will need to import the f3d file into Fusion 360. At time of publication, a free Fusion 360 license for academics/educators was available from Autodesk.*
@@ -65,7 +65,7 @@ With the open-source availability of all the relevant files for our hyperdrive f
 # Assembly
 A number of post-processing and assembly steps are needed before the drive can be used in experiments. A detailed protocol is available on request. Please contact contact@3dneuro.com for further details. This protocol can be used as a guide for the complete assembly process to ensure the successful production of TD Drives.
 
-![Assembled TD Drive](placeholder)
+![Assembled TD Drive](Media/AssembledTDDrive.png)
 
 # License
 Copyright 3Dneuro 2022. This source describes Open Hardware and is licensed under the CERN-OHL-S v2 You may redistribute and modify this documentation and make products using it under the terms of the CERN-OHL-S v2 (https:/cern.ch/cern-ohl). This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2 for applicable conditions. Source location: https://www.3dneuro.com/open-hardware/ https://choosealicense.com/licenses/cern-ohl-s-2.0/
