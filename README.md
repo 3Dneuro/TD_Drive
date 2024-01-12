@@ -18,7 +18,7 @@ Apart from changing dimensions of the design, the parametric functionality is al
 
 The table below contains the parameter names, a description of their function and some relevant notes regarding their impact on the design. A graphical representation of the parameters for the drive body is available in the form of a drawing that can be found in the design files folder (see preview image below). It  demonstrates the precise, physical dimensions corresponding to the most important parameters (in italics and marked bold in the table as well). This drawing, in combination with the table, can be used to easily visualize and determine what parameters should be modified for the changes that you wish to make.
 
-![Principal parameters drawing](placeholder)
+![Principal parameters drawing](Media/PreviewTDDriveParameterDrawing.png)
 
 | **Name**                     | **Function**                                                                                                                                                                                     | **Default value** | **Notes**                                                                                                                                  |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
